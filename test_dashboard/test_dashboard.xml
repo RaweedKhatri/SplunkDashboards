@@ -4,7 +4,7 @@
     <input type="time" token="field1">
       <label></label>
       <default>
-        <earliest>-15m</earliest>
+        <earliest>-60m</earliest>
         <latest>now</latest>
       </default>
     </input>
