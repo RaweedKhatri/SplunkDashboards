@@ -1,0 +1,12 @@
+<form>
+  <label>Ops Test - dev poop3</label>
+  <fieldset submitButton="false">
+    <input type="time" token="field1">
+      <label></label>
+      <default>
+        <earliest>-60m</earliest>
+        <latest>now</latest>
+      </default>
+    </input>
+  </fieldset>
+</form>
